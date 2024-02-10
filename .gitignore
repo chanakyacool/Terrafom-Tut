@@ -1,0 +1,8 @@
+# Ignore large files in Terraform directories and subdirectories
+**/*.tfstate
+**/*.tfstate.*
+**/.terraform/*
+*.pem
+*.key
+*.pub
+*.plan
